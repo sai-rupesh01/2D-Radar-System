@@ -11,6 +11,8 @@ This project is a **2D radar system** that scans the surrounding environment usi
 - 📊 **Graphical radar interface** To visualize detected objects
 - 🔗 **Serial communication** between Arduino & PC
 
+![image](https://github.com/sai-rupesh01/2D-Radar-System/blob/main/Output_Radar_System.png)
+
 ## 🛠️ Components Required
 | Component         | Quantity |
 |------------------|----------|
