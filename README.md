@@ -1,5 +1,7 @@
 # 2D Radar System 
 
+![image](https://github.com/sai-rupesh01/2D-Radar-System/blob/main/2D_Radar_System_Diagram.png)
+
 ## 📌 Project Overview
 This project is a **2D radar system** that scans the surrounding environment using an **ultrasonic sensor (HC-SR04)** mounted on a **servo motor**. The sensor collects distance data at different angles, and the results are visualized on a graphical radar display using **Python & Processing**.
 
